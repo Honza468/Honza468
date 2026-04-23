@@ -6,6 +6,7 @@ I'm Honza, IT student based in Czech Republic. I like cars and operating systems
 - Deeply learn about operating systems
 - Connect my two passions: Cars & Computers
 - Build a drone and a motion controller with my friends
+- Complete my school database project
 
 ## Tech knowledge
 - **Languages:** `C`, `Python` (Learning), `HTML/CSS`, `Javascript` (Basics)
@@ -15,6 +16,7 @@ I'm Honza, IT student based in Czech Republic. I like cars and operating systems
 ## Projects
 - [Sorting algorithms in C](https://github.com/Honza468/C_sorting_algorithms) - Classic in-memory sorting algorithms
 - [Python project - soon to be telemetry](https://github.com/Honza468/Python-project) - My Python learning journey
+- [Database project in C](https://github.com/Gymnazium-Brno-Videnska/projekt-bumbac) - My school project
 
 
 <!--
