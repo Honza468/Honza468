@@ -5,11 +5,12 @@ I'm Honza, IT student based in Czech Republic. I like cars and operating systems
 - Build an F1 telemetry app (inspired by [Tom Shaw](https://github.com/IAmTomShaw/f1-race-replay))
 - Deeply learn about operating systems
 - Connect my two passions: Cars & Computers
+- Build a drone and a motion controller with my friends
 
 ## Tech knowledge
 - **Languages:** `C`, `Python` (Learning), `HTML/CSS`, `Javascript` (Basics)
 - **Tools:** `Git`, `Docker`, `Bash/Zsh`
-- **Systems:** `Arch Linux`, `macOS`, `Fedora`
+- **Systems:** `Arch Linux`, `macOS`
 
 ## Projects
 - [Sorting algorithms in C](https://github.com/Honza468/C_sorting_algorithms) - Classic in-memory sorting algorithms
